@@ -1,11 +1,11 @@
 {
   "name": "detect-browser-directory-upload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to check if a browser can upload directory/folder contents with <input type='file'/>",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-   	"start": "webpack-dev-server --mode development",
+    "start": "webpack-dev-server --mode development",
     "transpile": "babel src -d dist --copy-files",
     "prepublishOnly": "npm run transpile"
   },
