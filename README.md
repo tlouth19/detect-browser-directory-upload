@@ -2,6 +2,14 @@
 
 A tiny package that checks if a browser can upload files within a directory.
 
+## Installation
+
+* `npm install detect-browser-directory-upload --save`; or
+
+* `yarn add detect-browser-directory-upload`.
+
+## Usage
+
 ## Usage
 
 ```jsx
