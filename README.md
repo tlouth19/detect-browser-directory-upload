@@ -10,8 +10,6 @@ A tiny package that checks if a browser can upload files within a directory.
 
 ## Usage
 
-## Usage
-
 ```jsx
 import checkForDirectorySupport from 'detect-browser-directory-upload'
 
