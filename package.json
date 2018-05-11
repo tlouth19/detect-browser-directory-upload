@@ -9,8 +9,18 @@
     "transpile": "babel src -d dist --copy-files",
     "prepublishOnly": "npm run transpile"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlouth19/detect-browser-directory-upload"
+  },
   "author": "Tyson Louth",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+  	"files",
+  	"directories",
+  	"folders",
+  	"input"
+  ],
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
